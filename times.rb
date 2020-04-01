@@ -1,3 +1,3 @@
-def  using_times
+def 7.using_times
 	puts "Wingardium Leviosa" 
 end
